@@ -1,2 +1,2 @@
 # hello-world
-the beginnings
+Trying this out. Amateur coder. 
